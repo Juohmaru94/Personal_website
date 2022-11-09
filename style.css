@@ -850,6 +850,16 @@ textarea {
   color: #06aacb;
 }
 
+.footer-link.footer-link-git:hover,
+.footer-link.footer-link-git:active {
+  color: #4d4d4d;
+}
+
+.footer-link.footer-link-linked:hover,
+.footer-link.footer-link-linked:active {
+  color: #7060ff;
+}
+
 .copyright {
   font-size: 1.2rem;
   line-height: 1.6;
